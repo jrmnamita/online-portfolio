@@ -23,8 +23,8 @@
 	
 	<div class="content">
 		<div class="kulas">
-			<img src="img/01.jpg">
-			<img src="img/02.jpg">
+			<img src="01.jpg">
+			<img src="02.jpg">
 		</div>
 		<div class="pogi">
 				<div></div>
